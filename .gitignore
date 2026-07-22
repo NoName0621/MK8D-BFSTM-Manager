@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore temporary files, but keep directories via .gitkeep
+temp/*
+!temp/.gitkeep
+
+backups/*
+!backups/.gitkeep
+
+custom_sound_mods/*
+!custom_sound_mods/.gitkeep
+
+tools/*
+!tools/.gitkeep
+!tools/VGAudioCLI.exe
+
+settings.json
+.vscode/
+.idea/
+*.swp
+*.tmp

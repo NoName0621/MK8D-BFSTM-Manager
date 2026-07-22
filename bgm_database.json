@@ -1,0 +1,203 @@
+[
+  {
+    "id": "mk8_title",
+    "filename": "Title_WU.aa.32.dspadpcm.bfstm",
+    "aliases": ["Title.bfstm", "Title_WU.bfstm", "Menu_WU.bfstm", "pBGM_WU_MENU.bfstm"],
+    "course_name_ja": "タイトル画面・メインメニュー",
+    "course_name_en": "Title & Main Menu Screen",
+    "category": "System Menu",
+    "type": "BGM",
+    "description": "マリオカート8 メインタイトル ＆ メニューBGM"
+  },
+  {
+    "id": "mk8_mario_circuit",
+    "filename": "pBGM_WU_FIRST_CIRCUIT_N.bfstm",
+    "aliases": ["pBGM_WU_FIRST_CIRCUIT_F.bfstm", "pBGM_WU_FIRST_CIRCUIT_N_N.bfstm"],
+    "course_name_ja": "マリオサーキット",
+    "course_name_en": "Mario Circuit",
+    "category": "Nitro (MK8)",
+    "type": "BGM",
+    "description": "マリオサーキット コースBGM"
+  },
+  {
+    "id": "mk8_water_park",
+    "filename": "pBGM_WU_WATER_PARK_N.bfstm",
+    "aliases": ["pBGM_WU_WATER_PARK_F.bfstm"],
+    "course_name_ja": "ウォーターパーク",
+    "course_name_en": "Water Park",
+    "category": "Nitro (MK8)",
+    "type": "BGM",
+    "description": "ウォーターパーク コースBGM"
+  },
+  {
+    "id": "mk8_sweet_sweet_canyon",
+    "filename": "pBGM_WU_CAKE_N.bfstm",
+    "aliases": ["pBGM_WU_CAKE_F.bfstm"],
+    "course_name_ja": "スイーツキャニオン",
+    "course_name_en": "Sweet Sweet Canyon",
+    "category": "Nitro (MK8)",
+    "type": "BGM",
+    "description": "スイーツキャニオン コースBGM"
+  },
+  {
+    "id": "mk8_thwomp_ruins",
+    "filename": "pBGM_WU_DOSSUN_N.bfstm",
+    "aliases": ["pBGM_WU_DOSSUN_F.bfstm"],
+    "course_name_ja": "ドッスンいせき",
+    "course_name_en": "Thwomp Ruins",
+    "category": "Nitro (MK8)",
+    "type": "BGM",
+    "description": "ドッスンいせき コースBGM"
+  },
+  {
+    "id": "mk8_toad_harbor",
+    "filename": "pBGM_WU_TOWN_N.bfstm",
+    "aliases": ["pBGM_WU_TOWN_F.bfstm"],
+    "course_name_ja": "キノピオハーバー",
+    "course_name_en": "Toad Harbor",
+    "category": "Nitro (MK8)",
+    "type": "BGM",
+    "description": "キノピオハーバー コースBGM"
+  },
+  {
+    "id": "mk8_twisted_mansion",
+    "filename": "pBGM_WU_HORROR_N.bfstm",
+    "aliases": ["pBGM_WU_HORROR_F.bfstm"],
+    "course_name_ja": "テレサミステリーハウス",
+    "course_name_en": "Twisted Mansion",
+    "category": "Nitro (MK8)",
+    "type": "BGM",
+    "description": "テレサミステリーハウス コースBGM"
+  },
+  {
+    "id": "mk8_shy_guy_falls",
+    "filename": "pBGM_WU_CITY_N.bfstm",
+    "aliases": ["pBGM_WU_CITY_F.bfstm"],
+    "course_name_ja": "ヘイホーこうざん",
+    "course_name_en": "Shy Guy Falls",
+    "category": "Nitro (MK8)",
+    "type": "BGM",
+    "description": "ヘイホーこうざん コースBGM"
+  },
+  {
+    "id": "mk8_sunshine_airport",
+    "filename": "pBGM_WU_AIRPORT_N.bfstm",
+    "aliases": ["pBGM_WU_AIRPORT_F.bfstm"],
+    "course_name_ja": "サンシャインくうこう",
+    "course_name_en": "Sunshine Airport",
+    "category": "Nitro (MK8)",
+    "type": "BGM",
+    "description": "サンシャインくうこう コースBGM"
+  },
+  {
+    "id": "mk8_dolphin_shoals",
+    "filename": "pBGM_WU_OCEAN_N.bfstm",
+    "aliases": ["pBGM_WU_OCEAN_F.bfstm"],
+    "course_name_ja": "ドルフィンみさき",
+    "course_name_en": "Dolphin Shoals",
+    "category": "Nitro (MK8)",
+    "type": "BGM",
+    "description": "ドルフィンみさき コースBGM"
+  },
+  {
+    "id": "mk8_electrodrome",
+    "filename": "pBGM_WU_TECHNO_N.bfstm",
+    "aliases": ["pBGM_WU_TECHNO_F.bfstm"],
+    "course_name_ja": "エレクトロドリーム",
+    "course_name_en": "Electrodrome",
+    "category": "Nitro (MK8)",
+    "type": "BGM",
+    "description": "エレクトロドリーム コースBGM"
+  },
+  {
+    "id": "mk8_mount_wario",
+    "filename": "pBGM_WU_SNOW_MOUNTAIN_N.bfstm",
+    "aliases": ["pBGM_WU_SNOW_MOUNTAIN_F.bfstm"],
+    "course_name_ja": "マウントマウント",
+    "course_name_en": "Mount Wario",
+    "category": "Nitro (MK8)",
+    "type": "BGM",
+    "description": "マウントマウント コースBGM"
+  },
+  {
+    "id": "mk8_cloudtop_cruise",
+    "filename": "pBGM_WU_CLOUD_N.bfstm",
+    "aliases": ["pBGM_WU_CLOUD_F.bfstm"],
+    "course_name_ja": "スカイガーデン (クラウドルート)",
+    "course_name_en": "Cloudtop Cruise",
+    "category": "Nitro (MK8)",
+    "type": "BGM",
+    "description": "クラウドルート コースBGM"
+  },
+  {
+    "id": "mk8_bowsers_castle",
+    "filename": "pBGM_WU_KOOPA_CASTLE_N.bfstm",
+    "aliases": ["pBGM_WU_KOOPA_CASTLE_F.bfstm"],
+    "course_name_ja": "クッパじょう",
+    "course_name_en": "Bowser's Castle",
+    "category": "Nitro (MK8)",
+    "type": "BGM",
+    "description": "クッパじょう コースBGM"
+  },
+  {
+    "id": "mk8_rainbow_road",
+    "filename": "pBGM_WU_RAINBOW_ROAD_N.bfstm",
+    "aliases": ["pBGM_WU_RAINBOW_ROAD_F.bfstm"],
+    "course_name_ja": "レインボーロード (MK8)",
+    "course_name_en": "Rainbow Road (MK8)",
+    "category": "Nitro (MK8)",
+    "type": "BGM",
+    "description": "MK8 レインボーロード コースBGM"
+  },
+
+  {
+    "id": "se_star_invincible",
+    "filename": "pBGM_STAR_MUTEX.bfstm",
+    "aliases": ["pBGM_STAR_MUTEX.bfstm", "pBGM_STAR_FAST.bfstm", "pBGM_STAR.bfstm", "Star.bfstm"],
+    "course_name_ja": "スター無敵演出 SE/BGM",
+    "course_name_en": "Star Invincible SE/BGM",
+    "category": "SE (効果音)",
+    "type": "SE",
+    "description": "スター取得時の無敵状態演出音 (.bfstm)"
+  },
+  {
+    "id": "se_replay_metro",
+    "filename": "ReplayMetro_WU.aa.32.dspadpcm.bfstm",
+    "aliases": ["ReplayMetro.bfstm", "Replay_Metro.bfstm"],
+    "course_name_ja": "ハイライトリプレイ演出 SE/BGM",
+    "course_name_en": "Highlight Replay SE/BGM",
+    "category": "SE (効果音)",
+    "type": "SE",
+    "description": "レース終了後のハイライトリプレイ演出音 (.bfstm)"
+  },
+  {
+    "id": "se_hyrule_jingle",
+    "filename": "pBGM_WU_HYRULE_F.bfstm",
+    "aliases": ["pBGM_WU_HYRULE_N.bfstm"],
+    "course_name_ja": "ハイラルサーキット ギミック演出音",
+    "course_name_en": "Hyrule Circuit Fanfare / Jingle",
+    "category": "SE (効果音)",
+    "type": "SE",
+    "description": "ゼルダ コースのギミックSE・ジングル (.bfstm)"
+  },
+  {
+    "id": "se_bigblue_jingle",
+    "filename": "pBGM_WU_BIGBLUE_F.bfstm",
+    "aliases": ["pBGM_WU_BIGBLUE_N.bfstm"],
+    "course_name_ja": "ビッグブルー 演出SE / ファンファーレ",
+    "course_name_en": "Big Blue Fanfare / Jingle",
+    "category": "SE (効果音)",
+    "type": "SE",
+    "description": "F-ZERO コースのゴール＆ファンファーレ SE (.bfstm)"
+  },
+  {
+    "id": "se_excitebike_jingle",
+    "filename": "pBGM_WU_EXCITEBIKE_F.bfstm",
+    "aliases": ["pBGM_WU_EXCITEBIKE_N.bfstm"],
+    "course_name_ja": "エキサイトバイク 演出SE / ファンファーレ",
+    "course_name_en": "Excitebike Fanfare / Jingle",
+    "category": "SE (効果音)",
+    "type": "SE",
+    "description": "エキサイトバイク コースのゴールファンファーレ SE (.bfstm)"
+  }
+]
